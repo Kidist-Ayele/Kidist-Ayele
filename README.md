@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kidist Ayele</h1>
 <h3 align="center">I am student of Adama Science and Technology University. I enjoy figuring out how data works, solving problems, and
 learning about making software. The world of technology captivates me with its infinite possibilities.</h3>
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8fd6ae2f0922e6ed19909533860bde90?rik=Z9fAR26S5HCscw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidist-ayele&label=Profile%20views&color=0e75b6&style=flat" alt="kidist-ayele" /> </p>
 
