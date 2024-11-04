@@ -1,6 +1,6 @@
 
 <div style="position: relative; width: 100%;">
-  <img src="[https://media.istockphoto.com/photos/digital-screen-with-encryption-data-background-big-data-with-binary-picture-id1323926101?b=1&k=20&m=1323926101&s=170667a&w=0&h=A-HrJZbTRE79J-Ux83tdCmLheXy_mskpYJ0t9aRHddc=](https://www.canva.com/design/DAGVicI4KcQ/VPzKVmc9H7IJrLlk2Vlv4w/view?utm_content=DAGVicI4KcQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="MasterHead" style="width: 100%;">
+  <img src="![bg](https://github.com/user-attachments/assets/a8602d3f-cbef-4487-9f25-e23d76d8c8d1)" alt="MasterHead" style="width: 100%;">
 </div>
 <h1 align="center">Hi 👋, I'm Kidist Ayele</h1>
 <h3 align="center">I am student of Adama Science and Technology University. I enjoy figuring out how data works, solving problems, and
