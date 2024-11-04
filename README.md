@@ -1,6 +1,6 @@
 
 <div style="position: relative; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/7c12b95a-dcad-4b82-89df-874a633c81df" alt="MasterHead" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/d710b84b-5898-4749-805f-6c6103b013b1" alt="MasterHead" style="width: 100%;">
 </div>
 <h1 align="center">Hi 👋, I'm Kidist Ayele</h1>
 <h3 align="center">I am student of Adama Science and Technology University. I enjoy figuring out how data works, solving problems, and
