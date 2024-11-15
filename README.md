@@ -28,6 +28,7 @@ learning about making software. The world of technology captivates me with its i
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kidist-ayele&show_icons=true&locale=en" alt="kidist-ayele" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kidist-ayele&" alt="kidist-ayele" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kidist-ayele" alt="kidist-ayele" /></p>
+
 
 
