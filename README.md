@@ -16,9 +16,7 @@ I enjoy solving problems, building software, and creating practical solutions th
 
 - 📫 How to reach me **kidistayele37@gmail.com**
 
-- ⚡ Fun fact **I am funny.**
 
-html
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
