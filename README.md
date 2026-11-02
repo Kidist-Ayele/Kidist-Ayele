@@ -11,8 +11,8 @@
 <br/>
 
 <div align="center">
-  🔭 I am currently working on <b>Full Stack Web Development</b> and <b>Enterprise Systems</b><br/>
-  🌱 Graduated from <b>Adama Science and Technology University</b>
+  🔭 I am currently working on <b>Full Stack Web Development</b> and <b>AI-Powered Applications</b><br/>
+  🎓 Graduated from <b>Adama Science and Technology University</b>
 </div>
 
 <br/>
@@ -22,14 +22,12 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/kidist-ayele-bit4kid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" 
+  <a href="https://kidist-ayele.github.io/Kidist_Ayele_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://leetcode.com/Bit4kid/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/Bit4kid" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
+      />
+  
 </div>
 
 <hr/>
