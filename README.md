@@ -1,54 +1,60 @@
-
-<div style="position: relative; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/d710b84b-5898-4749-805f-6c6103b013b1" alt="MasterHead" style="width: 100%;">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Kidist-Ayele&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </div>
-<h1 align="center">Hi 👋, I'm Kidist Ayele</h1>
 
-<h3 align="center">
-Computer Science and Engineering graduate from Adama Science and Technology University. 
-I enjoy solving problems, building software, and creating practical solutions through technology.
-</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8fd6ae2f0922e6ed19909533860bde90?rik=Z9fAR26S5HCscw&pid=ImgRaw&r=0">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kidist+Ayele!;Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kidist-ayele&label=Profile%20views&color=0e75b6&style=flat" alt="kidist-ayele" /> </p>
+<h3 align="center">Computer Science and Engineering Graduate | ASTU & A2SV Alum</h3>
 
-- 💻 Passionate about **Web Development and Software Engineering.**
+<br/>
 
-- 📫 How to reach me **kidistayele37@gmail.com**
+<div align="center">
+  🔭 I am currently working on <b>Full Stack Web Development</b> and <b>Enterprise Systems</b><br/>
+  🌱 Graduated from <b>Adama Science and Technology University</b>
+</div>
 
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
+<div align="center"> 
+  <a href="mailto:kidistayut@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/kidist-ayele-bit4kid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://codeforces.com/profile/Bit4kid" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-
   <a href="https://leetcode.com/Bit4kid/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</p>
+  <a href="https://codeforces.com/profile/Bit4kid" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</div>
 
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+<br/>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,ts,js,python,cpp,nodejs,express,go" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,figma" />
+</div>
 
+<br/>
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br/>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Kidist-Ayele&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Kidist-Ayele&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <br/><br/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Kidist-Ayele&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
+</div>
+
+<br/>
